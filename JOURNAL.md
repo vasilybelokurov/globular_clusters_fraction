@@ -112,3 +112,4 @@ LMC (present GC / living field): 0.11, 0.025, 0.21, 0.018, 0.003 for bins −2.2
 4. Common [Fe/H] grid across galaxies; [M/H]≈[Fe/H] assumption for MW field; Fornax CaT scale at [Fe/H] < −2 untested.
 5. Sgr and GSE (PROG_MA column in gc_catalog_updated.fits gives Massari+2019 progenitor labels).
 6. Put the project under git.
+- Git: public repo https://github.com/vasilybelokurov/globular_clusters_fraction (branch main), first commit e7d2b94. Data in ~/data/gc_fraction not in git.
